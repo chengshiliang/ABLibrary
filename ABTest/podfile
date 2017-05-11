@@ -1,0 +1,7 @@
+source 'https://github.com/chengshiliang/ABLibrary.git'
+source 'https://github.com/Cocoapods/Specs.git'
+platform :ios, '8.0'
+target 'ABTest' do
+pod 'ABLibrary', :path => '../'
+end
+inhibit_all_warnings!

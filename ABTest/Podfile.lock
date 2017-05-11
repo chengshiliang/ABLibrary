@@ -1,0 +1,16 @@
+PODS:
+  - ABLibrary (0.0.1)
+
+DEPENDENCIES:
+  - ABLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  ABLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ABLibrary: 5b870e6a5294baa135772f25a5eaac945d3b5365
+
+PODFILE CHECKSUM: 75dc9c088a7691f8923cfb0d1377c85b05b0b56a
+
+COCOAPODS: 1.1.1
